@@ -231,7 +231,6 @@ nav ul li a:hover::after{
 }
 .btn:hover{
     background-color: #D83F87;
-
 }
 /*--------------------Contact--------------------*/
 .contact-left{
@@ -265,7 +264,7 @@ nav ul li a:hover::after{
 }
 .btn.btn2{
     display: inline-block;
-    background: #D83F87;
+    background: #D83F87;    
 }
 .contact-right{
     width: 100%;
@@ -293,6 +292,15 @@ form .btn2{
     background: #c88afe;
     font-weight: 300;
     margin-top: 20px;
+}
+.name-input{
+    color: #000;
+}
+.email-input{
+    color: #000;
+}
+.textarea-input{
+    color: #000;
 }
 /*--------------------CSS for small screen--------------------*/
 nav .fas{
