@@ -14,7 +14,7 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url("https://i.ibb.co/cbXj7SZ/cropped-header-final.jpg");
+    background-image: url("https://i.ibb.co/1L12S4R/Nandha-landscape.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;   
@@ -308,7 +308,7 @@ nav .fas{
 }
 @media only screen and (max-width:600px){
     #header{
-        background-image: url("https://i.ibb.co/my4n8RR/5.png");
+        background-image: url("https://i.ibb.co/dtJ6y23/nandha-website-potrait.jpg");
     }
     .heading-text{
         margin-top: 100%;
